@@ -67,3 +67,11 @@ function myFunction(p1, p2){
 }
 
 console.log("La multiplicacion de p1 * p2 es: " + myFunction(p1, p2));
+
+
+function sumar(p1, p2){
+	return p1 + p2;
+}
+
+console.log("La suma de p1 + p2 es: " + sumar(p1, p2));
+
