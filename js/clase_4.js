@@ -75,3 +75,9 @@ function sumar(p1, p2){
 
 console.log("La suma de p1 + p2 es: " + sumar(p1, p2));
 
+function resta(p1, p2){
+	return p2 - p1;
+}
+
+console.log("La resta de p2 - p1 es: " + resta(p2, p1));
+
